@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: cb23fdd3-80f8-4d72-8408-495b3ee7835c
+      url: 'https://charming-sunburst-c6d10a.netlify.app'
