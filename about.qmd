@@ -3,25 +3,16 @@ toc: false
 listing: 
   - id: project-listing
     contents:
-      - "/projects/*.pdf"
+      - "projects/*.pdf"
     sort: false
     sort-ui: false
     filter-ui: true
     type: table
     fields:
-      - title
+      - filename
     categories: false
 ---
-
-## Project 1
-
-Here is [project 1](/projects/01-project.pdf)
-
-## Project 2
-
-Here is [project 2](/projects/02-project.pdf)
-
----
+Here are the projects I did in UCLA: 
 
 :::project-listing
 :::

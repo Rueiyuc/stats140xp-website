@@ -8,7 +8,7 @@ about:
       icon: github
       url: "https://github.com/rueiyuc"
     - text: Email
-      url: "michellec92@ucla.edu"
+      url: "mailto:michellec92@g.ucla.edu"
       icon: inbox-fill
     - text: CV
       url: "mycv.pdf"
