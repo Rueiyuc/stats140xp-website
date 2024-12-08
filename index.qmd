@@ -10,6 +10,8 @@ about:
     - text: Email
       url: "michellec92@ucla.edu"
       icon: inbox-fill
+    - text: CV
+      url: "mycv.pdf"
 comments: false
 ---
 ::: {.column-page}
@@ -18,5 +20,5 @@ Hi! I'm currently a senior in University of California, Los Angeles (UCLA) and m
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA 
+University of California, Los Angeles | Los Angeles, CA <br>
 B.S in Statistic and Data Science | Expected Graduate June 2025
