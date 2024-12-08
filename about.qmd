@@ -7,7 +7,7 @@ listing:
     sort: false
     sort-ui: false
     filter-ui: true
-    type: table
+    type: grid
     fields:
       - filename
     categories: false
