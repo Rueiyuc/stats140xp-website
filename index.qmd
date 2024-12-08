@@ -14,7 +14,7 @@ comments: false
 ---
 ::: {.column-page}
 
-Hi! I'm currently a senior in UCLA and majoring in Statistic and Data Science and also minoring in Data Science in Engineering. You can learn more about me from my [cv](/mycv.pdf).
+Hi! I'm currently a senior in University of California, Los Angeles (UCLA) and majoring in Statistic and Data Science and also minoring in Data Science in Engineering. You can learn more about me from my [cv](/mycv.pdf).
 
 ## Education
 
