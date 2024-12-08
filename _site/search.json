@@ -2,15 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Rueiyu Chang",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here is project 1"
+  },
+  {
+    "objectID": "about.html#project-1",
+    "href": "about.html#project-1",
+    "title": "Rueiyu Chang",
+    "section": "",
+    "text": "Here is project 1"
+  },
+  {
+    "objectID": "about.html#project-2",
+    "href": "about.html#project-2",
+    "title": "Rueiyu Chang",
+    "section": "Project 2",
+    "text": "Project 2\nHere is project 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_web",
+    "title": "Rueiyu Chang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.89373365 0.70885153 0.89235862 0.70365626 0.16675477 0.86290833\n [7] 0.93410839 0.86723558 0.05324749 0.64204578"
+    "text": "Hi! I’m currently a senior in UCLA and majoring in Statistic and Data Science and also minoring in Data Science in Engineering. You can learn more about me from my cv.\n\n\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistic and Data Science | Expected Graduate June 2025"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rueiyu Chang",
+    "section": "",
+    "text": "University of California, Los Angeles | Los Angeles, CA B.S in Statistic and Data Science | Expected Graduate June 2025"
   }
 ]

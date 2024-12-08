@@ -1,9 +1,27 @@
 ---
-title: "About"
+toc: false
+listing: 
+  - id: project-listing
+    contents:
+      - "/projects/*.pdf"
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: table
+    fields:
+      - title
+    categories: false
 ---
 
-About this site
+## Project 1
 
-```{r}
-1 + 1
-```
+Here is [project 1](/projects/01-project.pdf)
+
+## Project 2
+
+Here is [project 2](/projects/02-project.pdf)
+
+---
+
+:::project-listing
+:::

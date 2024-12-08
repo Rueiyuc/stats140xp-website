@@ -1,15 +1,22 @@
 ---
-title: "personal_web"
+title: "Rueiyu Chang"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      icon: github
+      url: "https://github.com/rueiyuc"
+    - text: Email
+      url: "michellec92@ucla.edu"
+      icon: inbox-fill
+comments: false
 ---
+::: {.column-page}
 
-This is a Quarto website.
+Hi! I'm currently a senior in UCLA and majoring in Statistic and Data Science and also minoring in Data Science in Engineering. You can learn more about me from my [cv](/mycv.pdf).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
-
-```{r}
-runif(10)
-```
+University of California, Los Angeles | Los Angeles, CA 
+B.S in Statistic and Data Science | Expected Graduate June 2025
